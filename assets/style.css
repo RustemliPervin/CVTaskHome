@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100px;
+    height: 100px;
+    background-image: url(../images/man-300x300.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    margin: 20px 0 0 60px;
+}
+.cv{
+    margin: 20px 0 0 60px;
+}
+
+.work-experience{
+    width: 350px;
+    margin: 50px 0 0 60px;
+    border-left-style: dashed;
+    border-left-width: 1px;
+}
+
+.work-list{
+    margin: 0 0 10px 10px;
+}
+.work-list .work h3{
+    color: dodgerblue;
+    margin: 0 0 10px 0;
+}
+.company-1{
+    margin: 0 0 15px 0;
+}
+.p-text-1{
+    margin: 0 0 20px 0;
+}
+.p-text-2{
+    margin: 15px 0 15px 0;
+}
+.p-text-3{
+    margin: 15px 0 15px 0;
+}
+.work-list .work-2{
+    color: dodgerblue;
+    margin: 0 0 20px 0;
+}
+
+.work-list .work-2-bottom{
+    margin: 0 0 20px 0;
+}
+.work-list .work-2-bottom-2{
+    margin: 20px 0 20px 0;
+}
+
+.work-list-2{
+    border-left-style: dashed;
+    border-left-width: 1px;
+}
+.work-list-2 .education{
+    color: dodgerblue;
+}
+
+.work-list-2{
+    width: 350px;
+    margin: 50px 0 0 60px;
+}
+
+.works .education{
+    margin: 0 0 20px 0;
+}
+.works .education-job-1{
+    margin: 0 0 20px 0;
+}
+.works .education-p-1{
+    margin: 0 0 20px 0;
+}
+
+.works .education-job-2{
+    margin: 0 0 20px 0;
+}
+.works .education-p-2{
+    margin: 0 0 20px 0;
+}
+.language{
+    margin: 0 0 20px 0;
+    color: dodgerblue;
+}
+.it-skills{
+    color: dodgerblue;
+    margin: 20px 0 20px 0;
+}
